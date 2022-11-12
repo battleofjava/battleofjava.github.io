@@ -80,7 +80,7 @@ export function Index() {
           <div id="learning-materials" className="rounded shadow">
             <h2>Learning Resources</h2>
             <a
-              href="https://nx.dev/getting-started/intro?utm_source=nx-project"
+              href="https://battleofjava.github.io/resources/"
               target="_blank"
               rel="noreferrer"
               className="list-item-link"
